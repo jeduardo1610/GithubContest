@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Github Contest</string>
+    <string name="enter_username">Enter username</string>
+    <string name="go">GO!</string>
+    <string name="empty_field">This field can\'t be empty</string>
+    <string name="ok">OK</string>
+    <string name="something_wrong">Something went wrong</string>
+    <string name="try_again">Try again later</string>
+    <string name="no_such_profile">No such %s profile</string>
+    <string name="repositories">Repositories</string>
+    <string name="no_content">No content available</string>
+    <string name="not_ready">Repositories list not ready yet</string>
+</resources>
+
